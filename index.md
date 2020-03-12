@@ -61,8 +61,6 @@ type: tool
 <p><a href="https://github.com/OWASP/Intelligent-Intrusion-Detection-System/">Video</a></p>
 <p><a href="https://github.com/OWASP/Intelligent-Intrusion-Detection-System/">Video</a></p>
 <h2 id="project_leader">Project Leader</h2>
-<h2 id="project_leader">Project Leader</h2>
-<p><a href="mailto:sriharsha.g@owasp.org">Sri Harsha Gajavalli</a></p></td>
 <p><a href="mailto:sriharsha.g@owasp.org">Sri Harsha Gajavalli</a></p></td>
 </tr>
 </tr>
@@ -77,10 +75,6 @@ __NOTOC__ <headertabs />
 
 
 [Category:OWASP Project](Category:OWASP_Project "wikilink")
-[Category:OWASP Project](Category:OWASP_Project "wikilink")
-[Category:OWASP_Builders](Category:OWASP_Builders "wikilink")
 [Category:OWASP_Builders](Category:OWASP_Builders "wikilink")
 [Category:OWASP_Defenders](Category:OWASP_Defenders "wikilink")
-[Category:OWASP_Defenders](Category:OWASP_Defenders "wikilink")
-[Category:OWASP_Tool](Category:OWASP_Tool "wikilink")
 [Category:OWASP_Tool](Category:OWASP_Tool "wikilink")

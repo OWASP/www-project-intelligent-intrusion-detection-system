@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Intelligent Intrusion Detection System
 tags: example-tag
-level: 0
+level: 2
 type: tool
 
 ---

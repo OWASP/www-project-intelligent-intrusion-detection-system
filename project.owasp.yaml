@@ -1,0 +1,21 @@
+audience:
+  - builder
+leaders:
+  - name: Sri Harsha Gajavalli
+    email: sriharsha.g@owasp.org
+    github: hardlyhuman
+  - name: Soham Marik
+    email: soham.marik@owasp.org
+level: 2
+name: OWASP Intelligent Intrusion Detection System
+pitch: Description for OWASP Intelligent Intrusion Detection System
+repositories:
+  - name: www-project-intelligent-intrusion-detection-system
+    url: https://github.com/OWASP/www-project-intelligent-intrusion-detection-system
+    description: OWASP Foundation Web Repository
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+type: tool
+website: https://owasp.org/www-project-intelligent-intrusion-detection-system
